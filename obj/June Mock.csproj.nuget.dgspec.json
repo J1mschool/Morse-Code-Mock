@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Year 12\\CS\\Assessment - Jun 2022 Mock\\June Mock\\June Mock\\June Mock.csproj": {}
+  },
+  "projects": {
+    "H:\\Year 12\\CS\\Assessment - Jun 2022 Mock\\June Mock\\June Mock\\June Mock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Year 12\\CS\\Assessment - Jun 2022 Mock\\June Mock\\June Mock\\June Mock.csproj",
+        "projectName": "June Mock",
+        "projectPath": "H:\\Year 12\\CS\\Assessment - Jun 2022 Mock\\June Mock\\June Mock\\June Mock.csproj",
+        "packagesPath": "C:\\Users\\Jamesashiekotey16\\.nuget\\packages\\",
+        "outputPath": "H:\\Year 12\\CS\\Assessment - Jun 2022 Mock\\June Mock\\June Mock\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jamesashiekotey16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
