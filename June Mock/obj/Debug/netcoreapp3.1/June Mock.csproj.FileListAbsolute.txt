@@ -1,0 +1,13 @@
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\bin\Debug\netcoreapp3.1\June Mock.exe
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\bin\Debug\netcoreapp3.1\June Mock.deps.json
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\bin\Debug\netcoreapp3.1\June Mock.runtimeconfig.json
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\bin\Debug\netcoreapp3.1\June Mock.runtimeconfig.dev.json
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\bin\Debug\netcoreapp3.1\June Mock.dll
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\bin\Debug\netcoreapp3.1\June Mock.pdb
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\obj\Debug\netcoreapp3.1\June Mock.csprojAssemblyReference.cache
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\obj\Debug\netcoreapp3.1\June Mock.AssemblyInfoInputs.cache
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\obj\Debug\netcoreapp3.1\June Mock.AssemblyInfo.cs
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\obj\Debug\netcoreapp3.1\June Mock.csproj.CoreCompileInputs.cache
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\obj\Debug\netcoreapp3.1\June Mock.dll
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\obj\Debug\netcoreapp3.1\June Mock.pdb
+\\FILE02-STUDENTS\Student_HomeDrives$\16Intake\JamesAshieKotey16\Year 12\CS\Assessment - Jun 2022 Mock\June Mock\June Mock\obj\Debug\netcoreapp3.1\June Mock.genruntimeconfig.cache
